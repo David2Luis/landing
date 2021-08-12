@@ -1,0 +1,12 @@
+.banner-buttom{
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  opacity: none;
+}
+
+.banner-buttom:hover{
+  opacity: 1;
+}
+

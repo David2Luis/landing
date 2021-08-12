@@ -1,0 +1,10 @@
+.container {
+  width: 900px;
+  margin: 40px auto;
+  color: white;
+}
+
+.container h2 {
+  letter-spacing: 2px;
+  text-shadow: 2px 2px gray;
+}
